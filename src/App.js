@@ -37,6 +37,8 @@ function App() {
           <i class="fa-solid fa-ellipsis-vertical symbol"></i>
         </div>
 
+
+
       </div>
       <div className='row'>
         <div className='col-md-1 icons'>
